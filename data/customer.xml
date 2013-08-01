@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<customers>
+  <customer>
+    <customerID>20130520010406ChoonKen</customerID>
+    <password>0g50234D6001i1200n</password>
+    <firstName>Choon Ken</firstName>
+    <surName>Ding</surName>
+    <email>aenkil@gmail.com</email>
+  </customer>
+  <customer>
+    <customerID>20130520015421SueFong</customerID>
+    <password>235n0o02h1450Cg0211</password>
+    <firstName>Sue Fong</firstName>
+    <surName>Chong</surName>
+    <email>allyssacsf@gmail.com</email>
+  </customer>
+</customers>

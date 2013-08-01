@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<auctions>
+  <auction>
+    <customerID>20130520010406ChoonKen</customerID>
+    <itemID>20130521132043Nobu</itemID>
+    <startDate>2013-05-21</startDate>
+    <startTime>13:20:43</startTime>
+    <status>failed</status>
+    <item>Nobu</item>
+    <category>other</category>
+    <description>I am Nobu</description>
+    <startPrice>20.20</startPrice>
+    <reservePrice>23.23</reservePrice>
+    <buyPrice>25.25</buyPrice>
+    <duration>
+      <day>0</day>
+      <hour>1</hour>
+      <min>30</min>
+    </duration>
+    <bid>
+      <customerID/>
+      <bidPrice>20.20</bidPrice>
+    </bid>
+  </auction>
+  <auction>
+    <customerID>20130520010406ChoonKen</customerID>
+    <itemID>20130521132150DingChoonKen</itemID>
+    <startDate>2013-05-21</startDate>
+    <startTime>13:21:50</startTime>
+    <status>failed</status>
+    <item>DingChoonKen</item>
+    <category>other</category>
+    <description>I am awesome</description>
+    <startPrice>20.20</startPrice>
+    <reservePrice>21.21</reservePrice>
+    <buyPrice>22.22</buyPrice>
+    <duration>
+      <day>1</day>
+      <hour>1</hour>
+      <min>15</min>
+    </duration>
+    <bid>
+      <customerID/>
+      <bidPrice>20.20</bidPrice>
+    </bid>
+  </auction>
+  <auction>
+    <customerID>20130520010406ChoonKen</customerID>
+    <itemID>20130522023915HappinessthroughMeditation</itemID>
+    <startDate>2013-05-22</startDate>
+    <startTime>02:39:15</startTime>
+    <status>failed</status>
+    <item>Happiness through Meditation</item>
+    <category>other</category>
+    <description>Well I have never really considered something as important as life to be interesting mean Who are we kidding anyway</description>
+    <startPrice>20.20</startPrice>
+    <reservePrice>30.30</reservePrice>
+    <buyPrice>50.50</buyPrice>
+    <duration>
+      <day>1</day>
+      <hour>1</hour>
+      <min>15</min>
+    </duration>
+    <bid>
+      <customerID/>
+      <bidPrice>20.20</bidPrice>
+    </bid>
+  </auction>
+  <auction>
+    <customerID>20130520010406ChoonKen</customerID>
+    <itemID>20130523000353FocusofthePureMind</itemID>
+    <startDate>2013-05-23</startDate>
+    <startTime>00:03:53</startTime>
+    <status>in_progress</status>
+    <item>Focus of the Pure Mind</item>
+    <category>other</category>
+    <description>Life is like a still pond Thoughts will bother the still pond </description>
+    <startPrice>40.50</startPrice>
+    <reservePrice>41.80</reservePrice>
+    <buyPrice>56.20</buyPrice>
+    <duration>
+      <day>2</day>
+      <hour>15</hour>
+      <min>15</min>
+    </duration>
+    <bid>
+      <custID/>
+      <bidPrice>40.50</bidPrice>
+    </bid>
+  </auction>
+  <auction>
+    <customerID>20130520010406ChoonKen</customerID>
+    <itemID>20130523153935Potatochips</itemID>
+    <startDate>2013-05-23</startDate>
+    <startTime>15:39:35</startTime>
+    <status>sold</status>
+    <item>Potato chips</item>
+    <category>other</category>
+    <description>Potato Chips are my passion</description>
+    <startPrice>5.50</startPrice>
+    <reservePrice>6.50</reservePrice>
+    <buyPrice>17.50</buyPrice>
+    <duration>
+      <day>1</day>
+      <hour>1</hour>
+      <min>15</min>
+    </duration>
+    <bid>
+      <custID>20130520010406ChoonKen</custID>
+      <bidPrice>17.50</bidPrice>
+    </bid>
+  </auction>
+  <auction>
+    <customerID>20130520010406ChoonKen</customerID>
+    <itemID>20130524012951Meditationisbliss</itemID>
+    <startDate>2013-05-24</startDate>
+    <startTime>01:29:51</startTime>
+    <status>in_progress</status>
+    <item>Meditation is bliss</item>
+    <category>other</category>
+    <description>The other day , I was walking. And I started walking meditation</description>
+    <startPrice>20.20</startPrice>
+    <reservePrice>25.00</reservePrice>
+    <buyPrice>30.20</buyPrice>
+    <duration>
+      <day>1</day>
+      <hour>1</hour>
+      <min>15</min>
+    </duration>
+    <bid>
+      <custID>20130520010406ChoonKen</custID>
+      <bidPrice>50</bidPrice>
+    </bid>
+  </auction>
+  <auction>
+    <customerID>20130520010406ChoonKen</customerID>
+    <itemID>20130524123815BirdNest</itemID>
+    <startDate>2013-05-24</startDate>
+    <startTime>12:38:15</startTime>
+    <status>sold</status>
+    <item>Bird Nest</item>
+    <category>other</category>
+    <description>The awesomest birdnest in the world</description>
+    <startPrice>250.00</startPrice>
+    <reservePrice>300.00</reservePrice>
+    <buyPrice>500.00</buyPrice>
+    <duration>
+      <day>2</day>
+      <hour>9</hour>
+      <min>30</min>
+    </duration>
+    <bid>
+      <custID>20130520010406ChoonKen</custID>
+      <bidPrice>500.00</bidPrice>
+    </bid>
+  </auction>
+</auctions>
